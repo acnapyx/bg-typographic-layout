@@ -8,7 +8,7 @@ Enter rare characters with ease.
 
 ## Overview
 
-Being connoisseurs and admirers of Bulgarian culture and the Bulgarian language, I've developed a Bulgarian typographic keyboard layout that allows you to enter additional characters, such as regular quotes, long dashes, some simple fractions and other similar symbols. 
+Being a connoisseur and admirer of Bulgarian culture and the Bulgarian language, I've developed a Bulgarian typographic keyboard layout that allows you to enter additional characters, such as regular quotes, long dashes, some simple fractions and other similar symbols. 
 
 Layout is based on **Ilya Birman's Russian Typographic Keyboard Layout** (https://ilyabirman.ru/projects/typography-layout/).
 All special/typographic symbols are identical to the ones in Birman's Layout, with the exception of the Ruble symbol (**₽**) which for obvious reasons isn't used much in Bulgaria so I've replaced it with the old Bulgarian symbol **ѫ** (located on the same key).
