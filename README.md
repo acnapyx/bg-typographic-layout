@@ -18,7 +18,7 @@ Created with **Microsoft Keyboard Layout Creator** (https://www.microsoft.com/en
 
 The layout works in Windows 2000 / XP / Vista / 7 (32- and 64-bit versions).
 
-You can [report any issues here](https://github.com/acnapyx/paywall-remover/issues). Also you're free to download/modify it as you please.
+You can [report any issues here](https://github.com/acnapyx/bg-typographic-layout/issues). Also you're free to download/modify it as you please.
 
 
 ## Usage
