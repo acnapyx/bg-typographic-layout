@@ -10,11 +10,11 @@ Enter rare characters with ease.
 
 Being connoisseurs and admirers of Bulgarian culture and the Bulgarian language, I've developed a Bulgarian typographic keyboard layout that allows you to enter additional characters, such as regular quotes, long dashes, some simple fractions and other similar symbols. 
 
-Layout is based on [Ilya Birman's Russian Typographic Keyboard Layout] (https://ilyabirman.ru/projects/typography-layout/).
+Layout is based on **Ilya Birman's Russian Typographic Keyboard Layout** (https://ilyabirman.ru/projects/typography-layout/).
 All special/typographic symbols are identical to the ones in Birman's Layout, with the exception of the Ruble symbol (**₽**) which for obvious reasons isn't used much in Bulgaria so I've replaced it with the old Bulgarian symbol **ѫ** (located on the same key).
 BDS and Phonetic are reordered according to traditional Bulgarian keyboard layout standards. 
 
-Created with [Microsoft Keyboard Layout Creator] (https://www.microsoft.com/en-us/download/details.aspx?id=22339)
+Created with **Microsoft Keyboard Layout Creator** (https://www.microsoft.com/en-us/download/details.aspx?id=22339)
 
 The layout works in Windows 2000 / XP / Vista / 7 (32- and 64-bit versions).
 
