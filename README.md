@@ -71,7 +71,7 @@ There are two keyboard modes in Windows - when left and right Alt are equivalent
 
 ### Something doesn't work in Windows 10
 
-Cannot help. Please read the [discussions in Birman's blog] (http://ilyabirman.ru/meanwhile/all/tipografskaya-raskladka-pod-vindousom-10/) on this matter.
+Cannot help. Please read the discussions in Birman's blog (http://ilyabirman.ru/meanwhile/all/tipografskaya-raskladka-pod-vindousom-10/) on this matter.
 
 ### I installed your keyboard and my Windows registry crashed (my hard drive broke, my favorite dog died, etc.), who compensates for my losses? 
 
