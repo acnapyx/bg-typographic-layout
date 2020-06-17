@@ -28,7 +28,7 @@ Characters are entered with the right Alt pressed, for example Alt +  < and Alt 
 
 ## Installation, updates, uninstallation:
 
-There are three installers in the archive: for BDS, Phonetic and for English layout.
+There are four installers in the archive: for BDS, Traditional Phonetic (ЯВЕРТЪ), New Phonetic (ЧШЕРТЪ) and for English layout.
 
 Run the setup.exe files from the distribution folders.
 Go to the "Options", "Time and Language", "Language". Choose Bulgarian, click "Options". Add typographic layout, remove the default one. Repeat for English.
