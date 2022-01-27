@@ -53,7 +53,7 @@ Alt + / . It is not in the picture, because it is not recommended to be used (it
 
 All accents live on Alt + Shift + characters. To attach any such accent to the character that you just entered, you need to press Alt + Shift and, holding them, double-press on the button with the desired accent. If you want to enter a letter immediately with an accent, then you must first press Alt + Shift + Accent, and then the desired letter. But keep in mind that the letters that have immediate accent are very few, and this method may not work. If you need, let's say, just put stress symbol, use the first method. If you write the German word, and you need to write the letter ü, then the second.
 
-### I've installed the layouts in Windows 8/8.1/10, they're not shown in Language Bar.
+### I've installed the layouts in Windows 8/8.1/10/11, they're not shown in Language Bar.
 
 Reboot.
 
@@ -69,7 +69,7 @@ Use left Ctrl + Alt.
 
 There are two keyboard modes in Windows - when left and right Alt are equivalent and when right Alt is synonymous with Ctrl + Alt. Birman has used the second mode to put right Alt as binding key. As Bulgarian Typographic Layouts are based on his project,  combinations with the right Alt work also for Control + Alt. 
 
-### Something doesn't work in Windows 10
+### Something doesn't work in Windows 10/11
 
 Cannot help. Please read the discussions in Birman's blog (http://ilyabirman.ru/meanwhile/all/tipografskaya-raskladka-pod-vindousom-10/) on this matter.
 
