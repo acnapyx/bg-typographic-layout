@@ -69,7 +69,7 @@ Use left Ctrl + Alt.
 
 There are two keyboard modes in Windows - when left and right Alt are equivalent and when right Alt is synonymous with Ctrl + Alt. Birman has used the second mode to put right Alt as binding key. As Bulgarian Typographic Layouts are based on his project,  combinations with the right Alt work also for Control + Alt. 
 
-### Something doesn't work in Windows 10/11
+### Something doesn't work in Windows 10/11.
 
 Cannot help. Please read the discussions in Birman's blog (http://ilyabirman.ru/meanwhile/all/tipografskaya-raskladka-pod-vindousom-10/) on this matter.
 
