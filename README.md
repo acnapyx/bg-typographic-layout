@@ -2,8 +2,8 @@ Bulgarian Typographic Keyboard Layouts
 =======
 Enter rare characters with ease.
 
-<img src="https://ilyabirman.ru/projects/typography-layout/i/layout-win@2x.png"
-     alt="Markdown Monster icon"
+<img src="https://ilyabirman.ru/typography-layout/i/layout-win@2x.png"
+     alt="Typographic keyboard layout for Windows"
      style="float: left; margin-right: 10px;" />
 
 ## Overview
