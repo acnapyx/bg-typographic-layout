@@ -75,12 +75,12 @@ There are two keyboard modes in Windows - when left and right Alt are equivalent
 
 ### Something doesn't work in Windows 10/11.
 
-Cannot help. Please read the [discussions in Birman's blog] (http://ilyabirman.ru/meanwhile/all/tipografskaya-raskladka-pod-vindousom-10/) on this matter.
+Cannot help. Please read the discussions in Birman's blog (http://ilyabirman.ru/meanwhile/all/tipografskaya-raskladka-pod-vindousom-10/) on this matter.
 
 ### How to make Control + Alt + keypresses still execute shortcuts in applications, and to enter the layout characters only when right Alt is pressed?
 
-Vladislav Loktionov [found a trick] (https://github.com/microsoft/PowerToys/issues/14535#issuecomment-1146884513) to achieve this using the [Mahou app] (https://github.com/BladeMight/Mahou). The point there is that while pressing Control + Alt, the program quickly replaces the layout with the standard one. Follow the instructions below to achieve the desired result:
-1. Unpack the [latest release of Mahou] (https://github.com/BladeMight/Mahou/releases/download/latest-commit/Release_x64.zip) and run Mahou.exe.
+Vladislav Loktionov found a trick (https://github.com/microsoft/PowerToys/issues/14535#issuecomment-1146884513) to achieve this using the **Mahou app** (https://github.com/BladeMight/Mahou). The point there is that while pressing Control + Alt, the program quickly replaces the layout with the standard one. Follow the instructions below to achieve the desired result:
+1. Unpack the latest release of Mahou (https://github.com/BladeMight/Mahou/releases/download/latest-commit/Release_x64.zip) and run Mahou.exe.
 2. In the "Functions" tab, uncheck "Remap Caps Lock as F18" and check "Start with Windows".
 3. In the "Layouts" tab, uncheck the "Switch between layouts" checkbox (if you are okay with the system keyboard layout switching hotkeys).
 4. In the field "Temporarily change the layout on LCtrl + LAlt combination" enter 67699721; this is the English (US) layout code. It is not required to set it additionally in the system settings.
