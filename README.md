@@ -16,7 +16,7 @@ BDS and Phonetic are reordered according to traditional Bulgarian keyboard layou
 
 Created with **Microsoft Keyboard Layout Creator** (https://www.microsoft.com/en-us/download/details.aspx?id=22339)
 
-The layout works in Windows 2000 / XP / Vista / 7 (32- and 64-bit versions).
+The layout works in Windows 2000 / XP / Vista / 7 / 10 (32- and 64-bit versions). Not tested on Windows 11, but in theory should work there too.
 
 You can [report any issues here](https://github.com/acnapyx/bg-typographic-layout/issues). Also you're free to download/modify it as you please.
 
@@ -45,6 +45,10 @@ The layout is deleted in “Add or Remove Programs” after disabling it in “K
 
 Yep. I don't have a Mac so I'm unable to prepare the necessary layouts for this platform. Use Birman's Typographic Layout for English, or create one on your own :)
 
+### Something doesn't work in Figma. 
+
+Please contact Figma developers. Figma forcefully takes control of keyboard shortcuts used by the keyboard layout and there's nothing I can do. 
+
 ### How to write the ellipsis symbol? 
 
 Alt + / . It is not in the picture, because it is not recommended to be used (its use is an abuse of common sense).
@@ -71,7 +75,21 @@ There are two keyboard modes in Windows - when left and right Alt are equivalent
 
 ### Something doesn't work in Windows 10/11.
 
-Cannot help. Please read the discussions in Birman's blog (http://ilyabirman.ru/meanwhile/all/tipografskaya-raskladka-pod-vindousom-10/) on this matter.
+Cannot help. Please read the [discussions in Birman's blog] (http://ilyabirman.ru/meanwhile/all/tipografskaya-raskladka-pod-vindousom-10/) on this matter.
+
+### How to make Control + Alt + keypresses still execute shortcuts in applications, and to enter the layout characters only when right Alt is pressed?
+
+Vladislav Loktionov [found a trick] (https://github.com/microsoft/PowerToys/issues/14535#issuecomment-1146884513) to achieve this using the [Mahou app] (https://github.com/BladeMight/Mahou). The point there is that while pressing Control + Alt, the program quickly replaces the layout with the standard one. Follow the instructions below to achieve the desired result:
+1. Unpack the [latest release of Mahou] (https://github.com/BladeMight/Mahou/releases/download/latest-commit/Release_x64.zip) and run Mahou.exe.
+2. In the "Functions" tab, uncheck "Remap Caps Lock as F18" and check "Start with Windows".
+3. In the "Layouts" tab, uncheck the "Switch between layouts" checkbox (if you are okay with the system keyboard layout switching hotkeys).
+4. In the field "Temporarily change the layout on LCtrl + LAlt combination" enter 67699721; this is the English (US) layout code. It is not required to set it additionally in the system settings.
+5. Click "Apply", the rest of the settings can be set at your discretion.
+6. Profit :)
+
+### I'm used to pressing Alt + Enter to expand  video to full screen.
+
+Many people use for this hotkey right Alt key, and after setting the layout, it stops working, because the layout uses the second mode (see above). I can only suggest switching to left Alt key.
 
 ### I installed your keyboard and my Windows registry crashed (my hard drive broke, my favorite dog died, etc.), who compensates for my losses? 
 
