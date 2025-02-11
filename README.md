@@ -55,7 +55,7 @@ Please contact Figma developers. Figma forcefully takes control of keyboard shor
 
 ### How to write the Bulgarian accented ѝ?
 
-You don't need a typographical layout to do this. In BDS layout, the ѝ symbol can be entered by pressing shift + a (BDS: ь), in Traditional Phonetic by shift + x (Phonetic: ь). Uppercase ѝ can be entered by pressing Caps Lock and the above mentioned keys.
+You don't need a typographical layout to do this. In BDS layout, the ѝ symbol can be entered by pressing Shift + a (BDS: ь), in Traditional Phonetic — by Shift + x (Phonetic: ь). Uppercase ѝ can be entered by pressing Caps Lock and the above mentioned keys.
 
 ### How to write the ellipsis symbol? 
 
