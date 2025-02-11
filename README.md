@@ -47,7 +47,7 @@ Yep. I don't have a Mac so I'm unable to prepare the necessary layouts for this 
 
 ### No Linux/Unix/Ubuntu/FreeBSD typographic layout for Bulgarian? Really?  
 
-In modern distributions additional typographic symbols can be switched on in the keyboard settings using "Enable extra typographic characters" option. You can find more info about this in Maxim Taranov's post (https://tinyurl.com/typolayout) about this.
+In modern distributions additional typographic symbols can be enabled in the keyboard settings ("Enable extra typographic characters" option). For more info about this check out Maxim Taranov's post (https://tinyurl.com/typolayout).
 
 ### Something doesn't work in Figma. 
 
