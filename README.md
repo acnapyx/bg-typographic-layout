@@ -10,7 +10,7 @@ Enter rare characters with ease.
 
 Being a connoisseur and admirer of Bulgarian culture and the Bulgarian language, I've developed a Bulgarian typographic keyboard layout that allows you to enter additional characters, such as regular quotes, long dashes, some simple fractions and other similar symbols. 
 
-Layout is based on **Ilya Birman's Russian Typographic Keyboard Layout** (https://ilyabirman.ru/projects/typography-layout/).
+Layout is based on **Ilya Birman's Russian Typographic Keyboard Layout** (https://ilyabirman.ru/typography-layout/).
 All special/typographic symbols are identical to the ones in Birman's Layout, with the exception of the Ruble symbol (**₽**) which for obvious reasons isn't used much in Bulgaria so I've replaced it with the old Bulgarian symbol **ѫ** (located on the same key).
 BDS and Phonetic are reordered according to traditional Bulgarian keyboard layout standards. 
 
@@ -45,9 +45,17 @@ The layout is deleted in “Add or Remove Programs” after disabling it in “K
 
 Yep. I don't have a Mac so I'm unable to prepare the necessary layouts for this platform. Use Birman's Typographic Layout for English, or create one on your own :)
 
+### No Linux/Unix/Ubuntu/FreeBSD typographic layout for Bulgarian? Really?  
+
+In modern distributions additional typographic symbols can be switched on in the keyboard settings using "Enable extra typographic characters" option. You can find more info about this in Maxim Taranov's post (https://medium.com/@png2378/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D1%82%D0%B8%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-47db999baee6) about this.
+
 ### Something doesn't work in Figma. 
 
 Please contact Figma developers. Figma forcefully takes control of keyboard shortcuts used by the keyboard layout and there's nothing I can do. 
+
+### How to write the Bulgarian accented ѝ?
+
+You don't need a typographical layout to do this. In BDS layout, the ѝ symbol can be entered by pressing shift + a (BDS: ь), in Phonetic Traditional by shift + x (Phonetic: ь). Uppercase ѝ can be entered by pressing Caps Lock and the above mentioned keys.
 
 ### How to write the ellipsis symbol? 
 
@@ -90,6 +98,10 @@ Vladislav Loktionov found a trick (https://github.com/microsoft/PowerToys/issues
 ### I'm used to pressing Alt + Enter to expand  video to full screen.
 
 Many people use for this hotkey right Alt key, and after setting the layout, it stops working, because the layout uses the second mode (see above). I can only suggest switching to left Alt key.
+
+### Why do I need a special layout if all these symbols can be entered from the keyboard anyway? 
+
+If you remember the alt codes of all symbols by heart, and you don't feel that this is an abuse of common sense, then this layout is of no use to you. However, practice shows that only after switching to it, many people start to actually use all the cool symbols (even if they knew their codes perfectly well). 
 
 ### I installed your keyboard and my Windows registry crashed (my hard drive broke, my favorite dog died, etc.), who compensates for my losses? 
 
